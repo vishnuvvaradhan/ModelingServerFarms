@@ -1,0 +1,2 @@
+- To replicate my exploration results please run: java ServerFarmSimulationExploration
+- To run my extension, run ServerFarmSimulationExtension
